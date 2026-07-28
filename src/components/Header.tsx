@@ -64,7 +64,7 @@ export default function Header() {
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center">
             <a
-              href="https://wa.me/905330000000?text=Merhaba,%20ayd%C4%B1nlatma%20tasar%C4%B1m%20ve%20avize%20projeleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+              href="https://wa.me/905457769654?text=Merhaba,%20ayd%C4%B1nlatma%20tasar%C4%B1m%20ve%20avize%20projeleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-gold-300/30 text-sm font-semibold text-gold-300 bg-gold-300/5 hover:bg-gold-300 hover:text-charcoal-950 transition-all duration-300 glass-panel shadow-sm hover:shadow-[0_0_20px_rgba(223,192,132,0.3)]"
@@ -108,7 +108,7 @@ export default function Header() {
           ))}
           <div className="pt-4 border-t border-charcoal-800">
             <a
-              href="https://wa.me/905330000000?text=Merhaba,%20ayd%C4%B1nlatma%20tasar%C4%B1m%20ve%20avize%20projeleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+              href="https://wa.me/905457769654?text=Merhaba,%20ayd%C4%B1nlatma%20tasar%C4%B1m%20ve%20avize%20projeleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="flex justify-center items-center gap-2 w-full px-5 py-3 rounded-full bg-gold-gradient text-charcoal-950 font-bold text-center hover:opacity-95 transition-opacity"

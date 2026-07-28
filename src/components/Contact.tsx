@@ -38,8 +38,8 @@ export default function Contact() {
     {
       icon: <Phone className="w-5 h-5 text-gold-300" />,
       title: "Telefon Numarası",
-      value: "+90 (312) 311 44 55",
-      link: "tel:+903123114455",
+      value: "0545 776 96 54",
+      link: "tel:+905457769654",
     },
     {
       icon: <Mail className="w-5 h-5 text-gold-300" />,
