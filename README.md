@@ -29,7 +29,7 @@ A Turkish-language, dark and gold themed single-page website for Güven Aydınla
 - **About** section with four value cards (craftsmanship, architectural planning, warranty & support, customisation)
 - **Services** — 6 cards: classic & crystal chandeliers, modern & geometric pendants, linear LED & smart fixtures, architectural lighting consultancy, outdoor & landscape lighting, chandelier restoration & maintenance
 - **Light temperature simulator** (`LightVisualizer`) — switch between 2700K / 4000K / 6500K and see the effect on a room photo, with a description and recommended room types for each value
-- **Reviews marquee** — infinitely scrolling customer comment cards
+- **Reviews marquee** — infinitely scrolling review cards (text is hard-coded in `ReviewsMarquee.tsx`)
 - **Project gallery** with category labels, hover descriptions and a lightbox (previous / next / close)
 - **Contact** — phone, e-mail, showroom address, opening hours, embedded Google Map and a quote request form
 - **SEO** — Turkish metadata and keywords, Open Graph tags, `robots.txt` and `sitemap.xml` via App Router metadata routes
@@ -113,7 +113,7 @@ Showroom'u Ankara Ulus'ta (Altındağ) bulunan Güven Aydınlatma için hazırla
 - Dört değer kartından oluşan **Hakkımızda** bölümü
 - **Hizmetler** — klasik ve kristal avizeler, modern sarkıtlar, lineer LED ve akıllı armatürler, mimari proje danışmanlığı, dış mekan ve peyzaj aydınlatması, avize restorasyon ve bakım
 - **Işık sıcaklığı simülatörü** — 2700K / 4000K / 6500K seçenekleriyle oda fotoğrafı üzerinde etkiyi gösterir, her değer için açıklama ve önerilen kullanım alanları sunar
-- Sonsuz kayan **müşteri yorumları** şeridi
+- Sonsuz kayan **yorum kartları** şeridi (metinler `ReviewsMarquee.tsx` içinde sabit yazılıdır)
 - Kategori etiketli **proje galerisi** ve lightbox
 - **İletişim** — telefon, e-posta, showroom adresi, çalışma saatleri, gömülü Google Haritası ve teklif formu
 - **SEO** — Türkçe meta etiketler, Open Graph, `robots.txt` ve `sitemap.xml`
